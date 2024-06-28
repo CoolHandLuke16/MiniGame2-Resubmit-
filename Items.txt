@@ -1,0 +1,10 @@
+# ItemID | ItemName | ItemDescription
+1
+Torch
+A guttering torch that sheds a little light
+2
+Rusty Sword
+A sword that looks like it may fall apart when you touch it
+3
+Shield
+A very shiny shield. This looks like something that could really protect you.
